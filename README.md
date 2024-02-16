@@ -1,1 +1,1 @@
-# TineyLlama-Finetuning-On-CustomDataset
+# TinyLlama-Finetuning-On-CustomDataset
